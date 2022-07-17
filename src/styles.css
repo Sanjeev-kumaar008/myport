@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-image: url("https://images.unsplash.com/photo-1481349518771-20055b2a7b24?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZG9tfGVufDB8fDB8fA%3D%3D&w=1000&q=80"); */
+  padding-top: 150px;
+}
+.extra {
+  /* background-size:contain;
+  background-repeat:no-repeat;
+  background-image: url("https://media-exp2.licdn.com/dms/image/C5603AQGAsygqpfmQ4w/profile-displayphoto-shrink_800_800/0/1625435641863?e=1661385600&v=beta&t=qoUCNRvMkQMzA4bMRfKUHaBJa8KKpJlL4vD7qpXnF5w");
+  padding: 100px; */
+  padding-top: 50px;
+  color: black;
+}
